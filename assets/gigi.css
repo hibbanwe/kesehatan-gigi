@@ -1,0 +1,20 @@
+body {
+  background-color: #EEEEEE;
+}
+
+.gigi {
+  width: 150px;
+  border-radius: 100%;
+}
+
+.blabla {
+  background-color: lightblue;
+}
+
+.kita>img {
+  width: 100%;
+}
+
+.bb {
+  font-weight: bold;
+}
